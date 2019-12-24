@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(161): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(162): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(163): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(168): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(169): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(170): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(174): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(175): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(179): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(180): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(506): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(507): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(508): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(509): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(542): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(568): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(569): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(570): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\taruc\documents\visual studio 2017\projects\project1\project1\source.cpp(571): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  Project1.vcxproj -> c:\users\taruc\documents\visual studio 2017\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\taruc\documents\visual studio 2017\Projects\Project1\Debug\Project1.pdb (Partial PDB)
